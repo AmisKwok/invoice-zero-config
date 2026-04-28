@@ -1,0 +1,13 @@
+{
+  "is_active": true,
+  "title": "测试公告",
+  "body": "这是一条测试公告内容，欢迎使用！",
+  "version": "2026-04-29",
+  "bonus": {
+    "pro_days": 0,
+    "export_count": 0,
+    "start_date": "",
+    "end_date": "",
+    "pro_deadline": ""
+  }
+}
