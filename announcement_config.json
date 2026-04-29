@@ -2,7 +2,7 @@
   "is_active": true,
   "title": "测试公告",
   "body": "测试赠送次数！",
-  "version": "2026-04-30-01",
+  "version": "2026-04-30-02",
   "bonus": {
     "pro_days": 0,
     "export_count": 0,
