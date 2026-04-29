@@ -1,11 +1,11 @@
 {
   "is_active": true,
   "title": "测试公告",
-  "body": "测试赠送天数！",
-  "version": "2026-04-30",
+  "body": "测试赠送次数！",
+  "version": "2026-04-30-01",
   "bonus": {
-    "pro_days": 1,
-    "export_count": 0,
+    "pro_days": 0,
+    "export_count": 10,
     "start_date": "",
     "end_date": "",
     "pro_deadline": ""
