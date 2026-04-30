@@ -2,12 +2,13 @@
   "is_active": true,
   "title": "测试福利",
   "body": "感谢使用 Invoice Zero！所有用户均可获得 1 天 Pro 体验。",
-  "version": "2026.01-02-test",
+  "version": "2026.01-03-test",
   "bonus": {
     "pro_days": 1,
     "export_count": 0,
     "eligible_users": [],
     "start_date": "2026-01-01",
-    "end_date": "2026-04-30"
+    "end_date": "2026-04-30",
+    "pro_deadline": ""
   }
 }
